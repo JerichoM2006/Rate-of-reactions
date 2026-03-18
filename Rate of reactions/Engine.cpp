@@ -40,7 +40,7 @@ void Engine::initVariables()
 	this->threadpool = new ThreadPool(4);
 
 	//Reaction
-	this->reactionChance = 0.f;
+	this->reactionChance = 0.25f;
 	this->velocityRange = sf::Vector2f(200.f, 300.f);
 
 	//Objects

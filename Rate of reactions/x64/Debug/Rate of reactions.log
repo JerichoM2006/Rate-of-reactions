@@ -1,5 +1,3 @@
 ﻿  Engine.cpp
-C:\Users\Owner\OneDrive\Documents\Productivity\Coding\C++ Projects\Physic simulations\Rate of reactions\Rate of reactions\Engine.cpp(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  ThreadPool.cpp
-  Generating Code...
-  Rate of reactions.vcxproj -> C:\Users\Owner\OneDrive\Documents\Productivity\Coding\C++ Projects\Physic simulations\Rate of reactions\x64\Debug\Rate of reactions.exe
+C:\Users\mendo\Documents\Programming\C++ Projects\Rate-of-reactions\Rate of reactions\Engine.cpp(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Rate of reactions.vcxproj -> C:\Users\mendo\Documents\Programming\C++ Projects\Rate-of-reactions\x64\Debug\Rate of reactions.exe
